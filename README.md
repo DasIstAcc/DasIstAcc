@@ -1,12 +1,20 @@
 ## Hi, world 👌
-I am Tagir, a software engineer and a ✨game developer✨<br/>
+I am Tagir, a software engineer and a ✨game developer✨
+I can make anything as long as my imagination allow it 😎
 
-I can make anything as long as my imagination allow it 😎<br/>
-My main tech stack is C#, Java and Python. And whatever is needed to so the task, frankly.<br/>
+
+My main tech stack is C#, Java and Python. And whatever is needed to so the task, frankly.
 
 The tools are Unity, VS, Idea, etc... (What does the job basically)
 
 
+Here would be the featured projects: . . .
+
+
+And here some fun info:
+  - Fun fact 1
+  - Fun fact 2
+  - Fun fact 3
 <!--
 **DasIstAcc/DasIstAcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
