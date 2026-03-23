@@ -1,9 +1,8 @@
 ## Hi, world 👌
-I am Tagir, a software engineer and a ✨game developer✨\
+I am Tagir, a software engineer and a ✨game developer✨<br/>
 
-I can make anything as long as my imagination allow it 😎\
-
-My main tech stack is C#, Java and Python. And whatever is needed to so the task, frankly.\
+I can make anything as long as my imagination allow it 😎<br/>
+My main tech stack is C#, Java and Python. And whatever is needed to so the task, frankly.<br/>
 
 The tools are Unity, VS, Idea, etc... (What does the job basically)
 
