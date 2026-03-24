@@ -14,4 +14,4 @@ My universal sorting analysis system: [Sorting system](https://github.com/DasIst
 And here some fun info:
   - I coded most things by hand
   - I'm actually good at maths
-  - I have a huge "Unreleased projects" folder (**winking at any potential invertors**)
+  - I have a huge "Unreleased projects" folder (*\*winking at any potential invertors*\*)
