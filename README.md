@@ -8,7 +8,7 @@ My main tech stack is C#, Java and Python. And whatever is needed to so the task
 The tools are Unity, VS, Idea, etc... (What does the job basically)
 <br>
 <br>
-Here would be the featured projects: . . .
+My universal sorting analysis system: [Sorting system](DasIstAcc/SorterSystem)
 <br>
 <br>
 And here some fun info:
