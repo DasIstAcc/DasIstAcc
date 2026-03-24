@@ -12,6 +12,6 @@ My universal sorting analysis system: [Sorting system](https://github.com/DasIst
 <br>
 <br>
 And here some fun info:
-  - Fun fact 1
-  - Fun fact 2
-  - Fun fact 3
+  - I coded most things by hand
+  - I'm actually good at maths
+  - I have a huge "Unreleased projects" folder
